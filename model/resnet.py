@@ -44,7 +44,6 @@ class ResNet(nn.Module):
     def make_layer(self, Block, in_planes, planes, num_blocks, stride):
         layers = []
         layers.append(Block(in_planes, planes, stride))
-        i=0
         for i in range(int(num_blocks)-1):
             layers.append(Block(planes, planes, stride=1))
         return nn.Sequential(*layers)
