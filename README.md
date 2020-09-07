@@ -6,3 +6,6 @@ https://github.com/kuangliu/pytorch-cifar <- base code
 | Network             | cifar10 Top-1 | cifar100 Top-1 |
 | ------------------- | ----------- |----------- |
 | ResNet34   |  92.45       |  76.41    |
+
+# Paper Reading
+ResNet PR : https://github.com/cjf8899/PR_ResNet
