@@ -7,5 +7,5 @@ https://github.com/kuangliu/pytorch-cifar <- base code
 | ------------------- | ----------- |----------- |
 | ResNet34   |  92.45       |  76.41    |
 
-# Paper Reading
+# Paper Review
 ResNet PR : https://cjf8899.github.io/image%20recognition/ResNet/
